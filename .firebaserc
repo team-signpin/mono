@@ -1,0 +1,17 @@
+{
+    "projects": {
+        "default": "sign-pin"
+    },
+    "targets": {
+        "sign-pin": {
+            "hosting": {
+                "main": [
+                    "sign-pin"
+                ],
+                "data": [
+                    "signpin-data"
+                ]
+            }
+        }
+    }
+}
